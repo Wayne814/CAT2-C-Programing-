@@ -7,7 +7,6 @@ struct employee {
     char department[20];
     float salary;
     char email[50];
-
 };
 
 int main(){
@@ -17,9 +16,6 @@ int main(){
         "Human Resource",
         55000.50,
         "johndoe@company.com"
-
-
-
     };
      printf(" DETAILS:\n");
     printf("name: %s\n", employee_1.name);

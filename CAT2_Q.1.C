@@ -1,3 +1,6 @@
+//A program to define a structure of employee
+//Reg No:CT101/g/22430/24
+
 #include <stdio.h>
 #include <string.h>
 

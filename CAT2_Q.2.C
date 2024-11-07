@@ -16,15 +16,15 @@ int score [2][2]={
     {59,67}
 };
 for(int i=0;i<2;i++){
-    for(int j=0;j<2;j++){
-        printf("%d\t",scores[i][j]);
+    for(int k=0;k<2;k++){
+        printf("%d\t",scores[i][k]);
     }
     printf("\n");
     }
      printf("\n");
     for(int i=0;i<2;i++){
-    for(int j=0;j<2;j++){
-        printf("%d\t",score[i][j]);
+    for(int k=0;k<2;k++){
+        printf("%d\t",score[i][k]);
     }
     printf("\n");
     }
